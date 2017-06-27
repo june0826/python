@@ -1,2 +1,4 @@
-# python
-파이썬 공부
+# python 공부
+
+* Item 문법
+* Item 실습
